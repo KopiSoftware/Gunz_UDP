@@ -2,6 +2,7 @@
 JUST FOR LREAN.The legal problems caused by abuse are borne by themselves.
 
 USER GUIDE
+
 1、This program runs on Linux platform.Ensure that the gcc or g++ compiler is installed.
 
 2、Compile the program with 'make' command or you can compile it by gcc compiler.
